@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SquidersPlugin.cpp.obj": [
+			"FindDefaultComponentsByClass.cpp.obj",
+			"SquidersPlugin.cpp.obj",
+			"SquidersPluginBPLibrary.cpp.obj"
+		],
+		"Module.SquidersPlugin.gen.cpp.obj": [
+			"FindDefaultComponentsByClass.gen.cpp.obj",
+			"SquidersPlugin.init.gen.cpp.obj",
+			"SquidersPluginBPLibrary.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SquidersPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"B:\epic\TestFastPath\Intermediate\Build\Win64\TestFastPathEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"B:\epic\TestFastPath\Plugins\SquidersPlugin\Intermediate\Build\Win64\UE4Editor\Development\SquidersPlugin\Module.SquidersPlugin.cpp.obj"
+"B:\epic\TestFastPath\Plugins\SquidersPlugin\Intermediate\Build\Win64\UE4Editor\Development\SquidersPlugin\Module.SquidersPlugin.gen.cpp.obj"
+"B:\epic\TestFastPath\Plugins\SquidersPlugin\Intermediate\Build\Win64\UE4Editor\Development\SquidersPlugin\Default.rc2.res"
+/OUT:"B:\epic\TestFastPath\Plugins\SquidersPlugin\Intermediate\Build\Win64\UE4Editor\Development\SquidersPlugin\UE4Editor-SquidersPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_SquidersPlugin
